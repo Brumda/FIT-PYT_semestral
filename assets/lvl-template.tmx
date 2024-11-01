@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.10" tiledversion="1.10.2" orientation="orthogonal" renderorder="right-down" width="30" height="15" tilewidth="72" tileheight="72" infinite="0" nextlayerid="20" nextobjectid="90">
+ <tileset firstgid="1" source="Ground_bigger.tsx"/>
+ <tileset firstgid="271" source="Prompts.tsx"/>
+ <tileset firstgid="377" source="Ground.tsx"/>
+ <tileset firstgid="394" source="Background.tsx"/>
+ <layer id="10" name="background" width="30" height="15">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFo2AUjIJRMApGLgAABwgAAQ==
+  </data>
+ </layer>
+ <layer id="1" name="ground" width="30" height="15">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFo2AUjIJRMApGLgAABwgAAQ==
+  </data>
+ </layer>
+ <layer id="5" name="prompts" width="30" height="15">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFo2AUjIJRMApGLgAABwgAAQ==
+  </data>
+ </layer>
+ <layer id="19" name="visual_help" width="30" height="15">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFo2AUjIJRMApGLgAABwgAAQ==
+  </data>
+ </layer>
+ <objectgroup id="7" name="floor">
+  <object id="89" x="1296" y="1296" width="80" height="17">
+   <text wrap="1">Hello World</text>
+  </object>
+ </objectgroup>
+ <objectgroup id="8" name="roof"/>
+ <objectgroup id="9" name="walls"/>
+ <objectgroup id="11" name="player"/>
+ <objectgroup id="12" name="enemies"/>
+ <objectgroup id="13" name="boundaries"/>
+ <objectgroup id="17" name="exit"/>
+ <objectgroup id="18" name="levers"/>
+</map>

@@ -1,0 +1,141 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "lvl3.tmx",
+    "automapping.whileDrawing": true,
+    "expandedProjectPaths": [
+        "."
+    ],
+    "fileStates": {
+        "Background.tsx": {
+            "dynamicWrapping": true,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Corners.tsx": {
+            "dynamicWrapping": true,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Ground.tsx": {
+            "dynamicWrapping": true,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Ground_bigger.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 0.5,
+            "scaleInEditor": 1
+        },
+        "Ground_tileset.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Player.tsx": {
+            "dynamicWrapping": true,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Prompts.tsx": {
+            "dynamicWrapping": true,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Prompts_tileset.tsx": {
+            "dynamicWrapping": true,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Prompts_tileset2.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1,
+            "scaleInEditor": 4
+        },
+        "lvl1.tmx": {
+            "expandedObjectLayers": [
+                18,
+                13
+            ],
+            "scale": 0.5,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 1066,
+                "y": 526
+            }
+        },
+        "lvl2.tmx": {
+            "expandedObjectLayers": [
+                18,
+                7,
+                8,
+                11,
+                13,
+                17,
+                12
+            ],
+            "scale": 0.75,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 2150.6666666666665,
+                "y": 530.6666666666666
+            }
+        },
+        "lvl3.tmx": {
+            "expandedObjectLayers": [
+                9,
+                18,
+                7,
+                8,
+                11,
+                13,
+                17,
+                12
+            ],
+            "scale": 0.5,
+            "selectedLayer": 7,
+            "viewCenter": {
+                "x": 1086,
+                "y": 502
+            }
+        }
+    },
+    "last.imagePath": "D:/FIT/PYT/eliasma7/assets/medieval-tileset/Tiles",
+    "map.fixedSize": true,
+    "map.lastUsedFormat": "tmx",
+    "map.layerDataFormat": null,
+    "map.tileHeight": 72,
+    "map.tileWidth": 72,
+    "openFiles": [
+        "lvl1.tmx",
+        "lvl2.tmx",
+        "lvl3.tmx",
+        "Prompts.tsx",
+        "Ground_bigger.tsx",
+        "Ground.tsx",
+        "Background.tsx"
+    ],
+    "project": "Platformer.tiled-project",
+    "recentFiles": [
+        "lvl1.tmx",
+        "lvl2.tmx",
+        "Background.tsx",
+        "Ground.tsx",
+        "Ground_bigger.tsx",
+        "Prompts.tsx",
+        "lvl3.tmx",
+        "Corners.tsx",
+        "Ground_tileset.tsx",
+        "Prompts_tileset.tsx",
+        "Prompts_tileset2.tsx",
+        "Player.tsx"
+    ],
+    "tileset.lastUsedFormat": "tsx",
+    "tileset.tileSize": {
+        "height": 72,
+        "width": 72
+    },
+    "tileset.type": 1
+}
